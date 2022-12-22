@@ -1,2 +1,2 @@
-# clonaci-n-google
+# clonacion-google
 Este proyecto es una práctica relacionada con la clonación de Google, fue creado con HTML y CSS en el Bootcamp de Tecnolochicas PRO.
